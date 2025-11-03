@@ -183,5 +183,3 @@ Maintainer: Anurag Shaw
 For questions or contact, open an issue on the repository or reach out via your preferred contact method.
 
 ---
-
-*Generated README — please review and adjust sections marked with placeholders (Demo link, screenshots, and exact project structure) to match your repository's content.*
